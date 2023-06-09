@@ -4,7 +4,8 @@
 
 This sample, utilizing Azure Open AI, facilitates the creation of humorous birthday greetings, which can be translated into various random languages and audibly played back. Its modern one-button interface ensures user-friendly operation on a desktop or mobile device.
 
-![B-Day Buddy](assets/B-Day Buddy GIF.gif)
+![B-Day Buddy](assets/BDayBuddy.gif)
+
 *For an audio-inclusive experience, please view the video on YouTube: [B-Day Buddy](https://youtu.be/Qvaa4iAy6LQ)*
 
 ## Applies to
