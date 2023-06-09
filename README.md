@@ -1,10 +1,11 @@
-# B-Day-Buddy
+# B-Day Buddy
 
 ## Summary
 
-This sample helps standardize the process of creating teams, especially for enterprise companies with limited user permissions to create Microsoft Teams teams. With the Power Apps Canvas app (build using Power Apps for Teams), you can implement a clear process for managing users' requests to create teams in Microsoft Teams. The included Power Automate flow automatically hendles all steps to create a team and channels. All request's information is stored in the SharePoint list.
+This sample, utilizing Azure Open AI, facilitates the creation of humorous birthday greetings, which can be translated into various random languages and audibly played back. Its modern one-button interface ensures user-friendly operation on a desktop or mobile device.
 
-![Teams team Request Form](assets/Teams-team-request-form.gif)
+![B-Day Buddy](assets/B-Day Buddy GIF.gif)
+*For an audio-inclusive experience, please view the video on YouTube: [B-Day Buddy](https://youtu.be/Qvaa4iAy6LQ)*
 
 ## Applies to
 
